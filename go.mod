@@ -1,4 +1,4 @@
-module github.com/gocolly/colly
+module github.com/devopsext/colly
 
 go 1.13
 
@@ -9,6 +9,7 @@ require (
 	github.com/antchfx/xmlquery v1.2.2
 	github.com/antchfx/xpath v1.1.2 // indirect
 	github.com/gobwas/glob v0.2.3
+	github.com/gocolly/colly v1.2.0
 	github.com/golang/groupcache v0.0.0-20191227052852-215e87163ea7 // indirect
 	github.com/golang/protobuf v1.3.2 // indirect
 	github.com/jawher/mow.cli v1.1.0
